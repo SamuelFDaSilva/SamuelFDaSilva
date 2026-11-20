@@ -2,7 +2,7 @@
 # 👨🏻‍💻 Samuel Ferreira da Silva
 
  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F0F8FF&center=true&vCenter=true&width=700&lines=Information+systems+student" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1589F0&center=true&vCenter=true&width=700&lines=Information+systems+student" />
 </p>
 
 Me chamo Samuel, tenho 21 anos e sou natural de Araras-SP. Atualmente, curso **Sistemas de Informação na FHO (Fundação Hermínio Ometto)**.
