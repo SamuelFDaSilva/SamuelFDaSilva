@@ -2,10 +2,8 @@
 # 👨🏻‍💻 Samuel Ferreira da Silva
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Estudante+de+Sistemas+de+Informação;Desenvolvedor+de+Software;Explorando+Inteligência+Artificial;Construindo+projetos+e+aprendendo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=36BCF7&center=true&vCenter=true&width=700&lines=Estudante+de+Sistemas+de+Informação;Desenvolvedor+de+Software;Explorando+Inteligência+Artificial;Construindo+projetos+e+aprendendo" />
 </p>
-
----
 
 Me chamo Samuel, tenho 21 anos e sou natural de Araras-SP. Atualmente, curso **Sistemas de Informação na FHO (Fundação Hermínio Ometto)**.
 
@@ -25,7 +23,6 @@ Tenho interesse em desenvolvimento de sistemas, tecnologia e inteligência artif
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-
 <img 
     align="left" 
     alt="CSS" 
@@ -34,7 +31,6 @@ Tenho interesse em desenvolvimento de sistemas, tecnologia e inteligência artif
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
 <img 
     align="left" 
     alt="JavaScript" 
@@ -43,7 +39,6 @@ Tenho interesse em desenvolvimento de sistemas, tecnologia e inteligência artif
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="TypeScript"
@@ -52,7 +47,6 @@ Tenho interesse em desenvolvimento de sistemas, tecnologia e inteligência artif
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="React"
@@ -61,7 +55,6 @@ Tenho interesse em desenvolvimento de sistemas, tecnologia e inteligência artif
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Python" 
@@ -70,7 +63,6 @@ Tenho interesse em desenvolvimento de sistemas, tecnologia e inteligência artif
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Git" 
@@ -82,29 +74,3 @@ Tenho interesse em desenvolvimento de sistemas, tecnologia e inteligência artif
 
 <br/>
 <br/>
-
----
-
-### 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&langs_count=8&hide_border=true"/>
-</div>
-
----
-
-### 📈 Histórico de contribuições
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
-### 📌 Atividade
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=tokyonight" />
-</div>
