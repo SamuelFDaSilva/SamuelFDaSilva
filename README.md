@@ -1,13 +1,13 @@
 
 # 👨🏻‍💻 Samuel Ferreira da Silva
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=36BCF7&center=true&vCenter=true&width=700&lines=Information+Systems+Student;Software+Developer;Exploring+Artificial+Intelligence;Learning+and+Building+Projects" />
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=CC0000&center=true&vCenter=true&width=700&lines=Estudante+de+Sistemas+de+Informacao" />
 </p>
 
 Me chamo Samuel, tenho 21 anos e sou natural de Araras-SP. Atualmente, curso **Sistemas de Informação na FHO (Fundação Hermínio Ometto)**.
 
-Durante o Ensino Médio, realizei o **itinerário formativo em Desenvolvimento de Sistemas** e, simultaneamente, o curso **Implantação de Serviços de Inteligência Artificial em Nuvem – Microsoft AI-900**, pelo SENAI.
+Durante o Ensino Médio, realizei uma **formação em Desenvolvimento de Sistemas** e, simultaneamente, o curso **Implantação de Serviços de Inteligência Artificial em Nuvem – Microsoft AI-900**, pelo SENAI.
 
 Tenho interesse em desenvolvimento de sistemas, tecnologia e inteligência artificial, buscando constantemente aprimorar meus conhecimentos por meio de estudos e projetos práticos.
 
