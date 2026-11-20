@@ -5,7 +5,7 @@
 
 Me chamo Samuel, tenho 21 anos e sou natural de Araras-SP. Atualmente, curso **Sistemas de Informação na FHO (Fundação Hermínio Ometto)**.
 
-Durante o Ensino Médio, também realizei pelo SENAI o curso **Implantação de Serviços de Inteligência Artificial em Nuvem – Microsoft AI-900**, ampliando meu contato com tecnologias de inteligência artificial e computação em nuvem.
+Durante o Ensino Médio, aprofundei meus conhecimentos na área de tecnologia por meio da formação em Desenvolvimento de Sistemas e do curso Implantação de Serviços de Inteligência Artificial em Nuvem – Microsoft AI-900, realizado pelo SENAI.
 
 Tenho interesse em desenvolvimento de sistemas, tecnologia e inteligência artificial, buscando constantemente aprimorar meus conhecimentos por meio de estudos e projetos práticos.
 
